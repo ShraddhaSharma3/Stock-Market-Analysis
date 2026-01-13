@@ -49,3 +49,15 @@ This project analyzes historical stock market data to evaluate price trends, dai
 
 ## ▶️ How to Run the Project
 1. Install required libraries:
+2. Run the Python script:
+---
+
+## 📚 Data Source
+Yahoo Finance (via yfinance Python library)
+
+---
+
+## 🎯 Conclusion
+This project demonstrates basic financial data analysis skills and provides insights into stock performance and risk. It serves as a beginner-friendly project for finance and data analytics roles.
+
+
